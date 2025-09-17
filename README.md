@@ -1,6 +1,6 @@
-# 📊 Elevvo Paths – Data Analytics Internship Projects
+# 📊 Elevvo Pathways – Data Analytics Internship Projects
 
-This repository contains my work during the **Data Analytics Internship at Elevvo Paths**, where I completed tasks focusing on Exploratory Data Analysis, Customer Segmentation, Data Cleaning, SQL Queries, and Time Series Analysis.  
+This repository contains my work during the **Data Analytics Internship at Elevvo Pathways**, where I completed tasks focusing on Exploratory Data Analysis, Customer Segmentation, Data Cleaning, SQL Queries, and Time Series Analysis.  
 
 ---
 
